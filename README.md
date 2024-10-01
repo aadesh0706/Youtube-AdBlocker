@@ -12,6 +12,13 @@
 
 ---
 
+### 🎥 **Demo Video**
+
+Check out the demo of this project in action! 🎬  
+[![🚫 YouTube AdBlocker Chrome Extension 🎬](https://img.youtube.com/vi/bFTARWEsZDw/0.jpg)](https://youtu.be/bFTARWEsZDw)  
+Click the thumbnail or follow [this link](https://youtu.be/bFTARWEsZDw) to watch.
+
+---
 ## 🌟 Features
 - 🛡️ Blocks YouTube ads **seamlessly**.
 - 🚫 Removes **banner** and **video overlay ads**.
