@@ -2,7 +2,7 @@
 
 # 🚫 YouTube AdBlocker Chrome Extension 🎬
 
-![YouTube AdBlocker Logo](logo.png)
+![YouTube AdBlocker Logo](/logo.png)
 
 ## 📜 Description
 **YouTube AdBlocker** is a lightweight Chrome extension that blocks intrusive ads on YouTube, providing you with an uninterrupted video-watching experience. This extension removes banner ads, video overlay ads, and skippable video ads using content scripts and Chrome’s webRequest API.
