@@ -12,9 +12,6 @@
 
 ---
 
-Removing the `---` at the top and bottom should resolve the YAML error. Let me know if you face any other issues!
----
-
 ## 🌟 Features
 - 🛡️ Blocks YouTube ads **seamlessly**.
 - 🚫 Removes **banner** and **video overlay ads**.
@@ -43,7 +40,7 @@ Removing the `---` at the top and bottom should resolve the YAML error. Let me k
 ## 🖥️ Screenshots
 
 🚀 **Blocking Ads in Action**  
-![Screenshot](demo.png) _(Add a screenshot if needed)_
+![Screenshot](demo.png)
 
 ---
 
