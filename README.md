@@ -1,3 +1,4 @@
+
 ---
 
 # 🚫 YouTube AdBlocker Chrome Extension 🎬
@@ -9,6 +10,9 @@
 
 🔗 [YouTube without ads? Yes, please!](https://github.com/aadesh0706/youtube-adblocker)
 
+---
+
+Removing the `---` at the top and bottom should resolve the YAML error. Let me know if you face any other issues!
 ---
 
 ## 🌟 Features
